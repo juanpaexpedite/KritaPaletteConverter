@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>JuanpaExpedite</Authors>
+    <Company>Expediteapps</Company>
+    <Description>Convert kpl into readable gpl</Description>
+    <AssemblyName>kritapalconvert</AssemblyName>
+  </PropertyGroup>
+
+</Project>

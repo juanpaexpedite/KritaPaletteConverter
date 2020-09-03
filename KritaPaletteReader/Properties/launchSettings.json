@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KritaPaletteReader": {
+      "commandName": "Project",
+      "commandLineArgs": "-i colorset.xml -o output.gpl"
+    }
+  }
+}
